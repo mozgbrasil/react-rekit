@@ -13,6 +13,10 @@ const childRoutes = [
   examplesRoute,
 ];
 
+const package_manifest = require('../package.json');
+
+let homepage = package_manifest.homepage,
+
 const routes = [{
   path: '/',
   component: App,
