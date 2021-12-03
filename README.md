@@ -2,7 +2,7 @@
 
 ![valid XHTML][checkmark]
 
-# react-rekit
+# react-rekit 👉️
 
 - https://github.com/rekit/rekit
 
